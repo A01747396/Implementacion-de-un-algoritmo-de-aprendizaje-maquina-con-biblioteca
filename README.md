@@ -36,7 +36,7 @@ Los resultados se guardarán automáticamente en la carpeta creada.
 └── Uso de framework o biblioteca de aprendizaje máquina para la implementación.pdf # Documento con análisis y conclusiones
 
 
-##📊 Resultados principales
+## 📊 Resultados principales
 
 Accuracy en validación cruzada: 0.9810 ± 0.0233
 
@@ -46,7 +46,7 @@ Métricas balanceadas en las tres clases: precisión, recall y F1 > 0.95
 
 Variables más importantes: proline, alcohol, color_intensity, flavanoids
 
-##📈 Visualizaciones incluidas
+## 📈 Visualizaciones incluidas
 
 Matriz de confusión
 
