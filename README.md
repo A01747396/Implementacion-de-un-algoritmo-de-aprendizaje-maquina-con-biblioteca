@@ -5,7 +5,7 @@ El proyecto se desarrolló con fines académicos y forma parte de un portafolio 
 
 ## 📖 Descripción
 El modelo clasifica tres variedades de vino italiano a partir de 13 atributos químicos (alcohol, flavonoides, intensidad de color, etc.).  
-Se utilizaron técnicas de validación cruzada y optimización de hiperparámetros para garantizar robustez y evitar sobreajuste.  
+Se utilizaron técnicas de validación cruzada y optimización de hiperparámetros.   
 
 ## ⚙️ Tecnologías utilizadas
 - Python 3.12  
